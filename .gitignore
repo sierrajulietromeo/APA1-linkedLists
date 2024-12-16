@@ -1,0 +1,81 @@
+# Dependency directories
+node_modules/
+modules/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Logs and databases
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea/
+.vscode/
+
+# REPL files
+.replit
+
+# Ignore all .env files
+.env
+
+# Build directories
+/dist/
+/build/
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# System files
+*.swp
+*~
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Vagrant files
+.vagrant/
+
+# Vim files
+*.swp
+
+# Mac files
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# JavaScript
+npm-debug.log*
+
+# Ruby
+*.gem
+.ruby-version.lock
+.pkg/
+
+# Go
+Gemfile.lock
+/vendor/
+/bin/
+*.[568cq]
+*.ll
+
+# Rails
+.tbk
+.slf
+
+# C
+*.d
+*.enc
+
+# Perl
+*.plsz
+.preview

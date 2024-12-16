@@ -32,12 +32,3 @@ This project explores the implementation and applications of linked list data st
 ## Practical Applications
 - `browserHistorySimulator.js` - Backend code for a browser history simulator
 - `musicPlaylist.js` - Backend code for a music playlist
-
-## Usage
-```javascript
-const list = new LinkedList();
-list.insert(value);
-list.delete(value);
-```
-
-Both implementations can be run directly in a Node.js environment to see their output.
