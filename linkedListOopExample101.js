@@ -1,5 +1,3 @@
-// Note, it is strongly suggested that for Primer 3 you use a functional implementation.
-// This is included here for the curious
 
 class Node {
     constructor(data) {
